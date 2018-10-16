@@ -1,9 +1,24 @@
+
 ## ID: 002 Mostrar Alumno
-El sistema debe poder mostrar la información de un alumno especificado por el usuario que esté registrado en la base de datos
 
-**Prioridad: 2**
+**Breve descripción:** El sistema muestra la información de un alumno
 
----
+**Actores principales:** Profesor
+**Actores secundarios:** Alumno
 
- - Quiero poder consultar toda la información relativa a un alumno registrado.
- - Se podrá mostrar la información de un alumno especificando o bien su dni, sus apellidos o el equipo al que pertenece.
+**Precondiciones:**
+
+ 1. El alumno debe existir en el sistema
+
+**Flujo principal:**
+
+ 1. El caso de uso empieza cuando el sistema necesita mostrar la información de un alumno.
+ 2. El sistema recoge los datos del alumno
+ 3. El sistema muestra los datos del alumno por pantalla.
+
+**Postcondiciones:**
+
+ - El sistema muestra el alumno por pantalla.
+
+**Flujos alternativos:**
+- 2.a Si no encuentra al alumno, el sistema muestra un mensaje de error

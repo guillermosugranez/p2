@@ -1,9 +1,26 @@
 ## ID: 005 Guardar Copia de Seguridad
-Tanto el sistema como el profesor deben poder guardar una copia de la base de datos cuando lo soliciten
 
-**Prioridad: 4**
+**Breve descripción:** El sistema hace una copia de seguridad de la base de datos del sistema.
 
----
+**Actores principales:** Profesor
+**Actores secundarios:** Alumno
 
- - Quiero poder copiar toda la información en un archivo.
- - El sistema hará una copia automática antes de salir.
+**Precondiciones:**
+
+ 1. Se debe proporcionar el nombre del archivo de la copia de seguridad.
+ 2. Se debe comprobar el acceso al archivo y que se puede modificar.
+
+**Flujo principal:**
+
+ 1. El caso de uso empieza cuando el sistema necesita realizar una copia de seguridad.
+ 2. El sistema pide un nombre de fichero.
+ 3. El sistema comprueba la apertura correcta del archivo.
+ 4. El sistema realiza la copia de seguridad.
+
+**Postcondiciones:**
+
+ - El sistema realiza una copia de seguridad de la base de datos.
+
+**Flujos alternativos:**
+- 3.a Si el archivo no se abre correctamente, el sistema lanzará un mensaje de error.
+- 4.a Si no se pudo realizar la copia de seguridad por algún motivo, el sistema lanzará un mensaje de error.

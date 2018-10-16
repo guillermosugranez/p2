@@ -1,9 +1,23 @@
 ## ID: 004 Borrar Alumno
-El profesor debe poder borrar a un alumno en la base de datos
 
-**Prioridad: 3**
+**Breve descripción:** El sistema borra un alumno existente en la base de datos.
 
----
+**Actores principales:** Profesor
+**Actores secundarios:** Alumno
 
- - Quiero poder borrar a un alumno registrado, determinado por su dni o su 1er apellido.
- - Si el alumno no está registrado en el sistema, se deberá notificar el error.
+**Precondiciones:**
+
+ 1. El alumno debe existir en el sistema.
+
+**Flujo principal:**
+
+ 1. El caso de uso empieza cuando el sistema necesita borrar un alumno.
+ 2. El sistema encuentra al alumno.
+ 3. El sistema borra el alumno.
+
+**Postcondiciones:**
+
+ - El sistema borra un alumno.
+
+**Flujos alternativos:**
+- 2.a Si el alumno no existía, el sistema lanzará un mensaje de error.

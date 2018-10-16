@@ -1,10 +1,24 @@
 ## ID: 001 Buscar Alumno
-El sistema debe poder encontrar un alumno registrado en la base de datos
 
-**Prioridad: 1**
+**Breve descripción:** El sistema busca un alumno
 
----
+**Actores principales:** Profesor
+**Actores secundarios:** Alumno
 
- - Se podrá buscar a un alumno por su dni, por apellidos o por el equipo en el que está.
- - Si se busca por 1er apellido y hay más de un resultado, se pedirá el dni para una nueva búsqueda.
- - Si no hay coincidencias con el término de busqueda, se deberá notificar al profesor.
+**Precondiciones:** 
+
+ 1. Se deberá proporcionar o su dni, o alguno de sus apellidos, o su número de grupo.
+
+**Flujo principal:**
+
+ 1. El caso de uso empieza cuando el sistema necesita encontrar a un alumno
+ 2. El sistema recoge los datos del alumno
+
+**Postcondiciones:**
+
+ - El sistema devuelve los datos del alumno
+
+**Flujos alternativos:**
+
+ - 2.a Si no encuentra al alumno, el sistema muestra un mensaje de error
+ - 2.b Si hay más de un resultado, el sistema mostrará las coincidencias y permitirá realizar una nueva busqueda por otro criterio.
