@@ -7,17 +7,17 @@
 
 **Precondiciones**:
 
-	1. En el sistema debe haber como mínimo un alumno inscrito.
+1. En el sistema debe haber como mínimo un alumno inscrito.
 
 **Flujo principal**:
 
-	1. El caso de uso empieza cuando el profesor quiere ver todos los alumnos inscritos en el sistema.
-	2. El sistema lee todos los alumnos inscritos en el sistema.
+1. El caso de uso empieza cuando el profesor quiere ver todos los alumnos inscritos en el sistema.
+2. El sistema lee todos los alumnos inscritos en el sistema.
 
 **Postcondiciones**:
 
-	- El sistema muestra un listado de todos los alumnos inscritos en el sistema.
+- El sistema muestra un listado de todos los alumnos inscritos en el sistema.
 
 **Flujos alternativos**:
 
-	2.a. Si no hay ningún alumno inscrito en el sistema, el sistema debe mostrar un mensaje de error.
+2.a. Si no hay ningún alumno inscrito en el sistema, el sistema debe mostrar un mensaje de error.

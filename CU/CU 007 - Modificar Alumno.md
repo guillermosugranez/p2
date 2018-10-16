@@ -7,17 +7,17 @@
 
 **Precondiciones**:
 
-	1. El alumno debe existir en el sistema.
+1. El alumno debe existir en el sistema.
 
 **Flujo principal**:
 
-	1. El caso de uso empieza cuando el profesor quiere modificar los datos de un alumno.
-	2. El sistema recoge los datos del alumno que se quiere modificar.
+1. El caso de uso empieza cuando el profesor quiere modificar los datos de un alumno.
+2. El sistema recoge los datos del alumno que se quiere modificar.
 
 **Postcondiciones**:
 
-	- El sistema guarda los nuevos datos introducidos en el alumno que se quiere modificar.
+- El sistema guarda los nuevos datos introducidos en el alumno que se quiere modificar.
 
 **Flujos alternativos**:
 
-	2.a. Si no existe el alumno, el sistema debe mostrar un mensaje de error.
+2.a. Si no existe el alumno, el sistema debe mostrar un mensaje de error.
