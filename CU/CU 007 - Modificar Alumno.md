@@ -1,11 +1,23 @@
 ## ID: 007 Modificar Alumno
-El profesor debe poder editar la información relativa a un alumno.
 
-**Prioridad: 5**
+**Breve descripción**: El sistema permite modificar los datos de un alumno.
 
----
+**Actores principales**: Profesor.
+**Actores secundarios**: Alumno.
 
- - Quiero poder modificar la información relativa a un alumno
- - Se mostrarán los diferentes campos de información para que el profesor pueda elegir cuál modificar.
- - El alumno debe estar registrado en la base de datos.
- - Se podrá salir del menú de edición sin hacer ningún cambio.
+**Precondiciones**:
+
+	1. El alumno debe existir en el sistema.
+
+**Flujo principal**:
+
+	1. El caso de uso empieza cuando el profesor quiere modificar los datos de un alumno.
+	2. El sistema recoge los datos del alumno que se quiere modificar.
+
+**Postcondiciones**:
+
+	- El sistema guarda los nuevos datos introducidos en el alumno que se quiere modificar.
+
+**Flujos alternativos**:
+
+	2.a. Si no existe el alumno, el sistema debe mostrar un mensaje de error.
