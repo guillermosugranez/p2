@@ -3,6 +3,7 @@
 **Breve descripción**: El sistema permite modificar los datos de un alumno.
 
 **Actores principales**: Profesor.
+
 **Actores secundarios**: Alumno.
 
 **Precondiciones**:

@@ -3,6 +3,7 @@
 **Breve descripción**: El sistema restaura una copia de seguridad previamente guardada.
 
 **Actores principales**: Profesor.
+
 **Actores secundarios**: Alumno.
 
 **Precondiciones**:

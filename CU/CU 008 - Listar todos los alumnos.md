@@ -3,6 +3,7 @@
 **Breve descripción**: El sistema muestra por pantalla todos los alumnos que se han introducido en el sistema..
 
 **Actores principales**: Profesor.
+
 **Actores secundarios**: Alumno.
 
 **Precondiciones**:

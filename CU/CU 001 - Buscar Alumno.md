@@ -3,6 +3,7 @@
 **Breve descripción:** El sistema busca un alumno
 
 **Actores principales:** Profesor
+
 **Actores secundarios:** Alumno
 
 **Precondiciones:** 

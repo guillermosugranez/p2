@@ -3,6 +3,7 @@
 **Breve descripción**: El profesor establece un líder en cada grupo de alumnos.
 
 **Actores principales**: Profesor.
+
 **Actores secundarios**: Alumno
 
 **Precondiciones**:

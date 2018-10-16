@@ -3,6 +3,7 @@
 **Breve descripción:** El sistema introduce un nuevo alumno en la base de datos.
 
 **Actores principales:** Profesor
+
 **Actores secundarios:** Alumno
 
 **Precondiciones:**

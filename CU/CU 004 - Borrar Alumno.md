@@ -3,6 +3,7 @@
 **Breve descripción:** El sistema borra un alumno existente en la base de datos.
 
 **Actores principales:** Profesor
+
 **Actores secundarios:** Alumno
 
 **Precondiciones:**

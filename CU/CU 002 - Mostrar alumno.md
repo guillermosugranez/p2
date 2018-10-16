@@ -4,6 +4,7 @@
 **Breve descripción:** El sistema muestra la información de un alumno
 
 **Actores principales:** Profesor
+
 **Actores secundarios:** Alumno
 
 **Precondiciones:**
