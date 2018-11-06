@@ -30,11 +30,9 @@ Los requisitos funcionales son:
  - Restaurar copia de seguridad
  - Establecer líder de grupo
  #### Prioridad
- - Con prioridad 1: Buscar alumno
- - Con prioridad 2: Mostrar alumno
- - Con prioridad 3: Introducir Alumno, Borrar Alumno
- - Con prioridad 4: Guardar copia de seguridad, Restaurar copia de seguridad
- - Con prioridad 5: Modificar Alumno, Listar todos los Alumnos, Establecer líder de grupo
+ - Con prioridad 1: Buscar alumno, Mostrar alumno, Introducir Alumno, Borrar Alumno
+ - Con prioridad 2: Guardar copia de seguridad, Restaurar copia de seguridad
+ - Con prioridad 3: Modificar Alumno, Listar todos los Alumnos, Establecer líder de grupo
 
 ### Requisitos no funcionales
 Indican como debería ser el sistema. Restricciones que afectan al sistema.
