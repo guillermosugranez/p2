@@ -1,7 +1,7 @@
 ## ID: 006 Restaurar Copia de Seguridad
 El profesor debe poder recuperar desde un fichero toda la información de la base de datos guardada previamente.
 
-**Prioridad: 4**
+**Prioridad: 2**
 
 ---
 

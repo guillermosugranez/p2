@@ -1,7 +1,7 @@
 ## ID: 004 Borrar Alumno
 El profesor debe poder borrar a un alumno en la base de datos
 
-**Prioridad: 3**
+**Prioridad: 1**
 
 ---
 

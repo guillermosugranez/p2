@@ -1,7 +1,7 @@
 ## ID: 003 Introducir Alumno
 El profesor debe poder registrar a un nuevo alumno en la base de datos
 
-**Prioridad: 3**
+**Prioridad: 1**
 
 ---
 

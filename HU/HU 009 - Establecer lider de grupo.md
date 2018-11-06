@@ -1,7 +1,7 @@
 ## ID: 009 Establecer líder de grupo
 El profesor debe poder determinar a un alumno como líder de su grupo
 
-**Prioridad: 5**
+**Prioridad: 3**
 
 ---
 

@@ -1,7 +1,7 @@
 ## ID: 007 Modificar Alumno
 El profesor debe poder editar la información relativa a un alumno.
 
-**Prioridad: 5**
+**Prioridad: 3**
 
 ---
 

@@ -1,7 +1,7 @@
 ## ID: 008 Listar todos los alumnos
 El profesor podrá listar la totalidad de los alumnos del sistema con un criterio de ordenación concreto.
 
-**Prioridad: 5**
+**Prioridad: 3**
 
 ---
 

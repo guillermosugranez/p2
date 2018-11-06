@@ -1,7 +1,7 @@
 ## ID: 002 Mostrar Alumno
 El sistema debe poder mostrar la información de un alumno especificado por el usuario que esté registrado en la base de datos
 
-**Prioridad: 2**
+**Prioridad: 1**
 
 ---
 
