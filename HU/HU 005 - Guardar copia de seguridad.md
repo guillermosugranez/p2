@@ -7,3 +7,4 @@ Tanto el sistema como el profesor deben poder guardar una copia de la base de da
 
  - Quiero poder copiar toda la información en un archivo.
  - El sistema hará una copia automática antes de salir.
+ - Si el fichero ya existe, preguntar si desea sobreescribirlo.

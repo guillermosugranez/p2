@@ -22,4 +22,5 @@
  - El sistema muestra el alumno por pantalla.
 
 **Flujos alternativos:**
+
 - 2.a Si no encuentra al alumno, el sistema muestra un mensaje de error

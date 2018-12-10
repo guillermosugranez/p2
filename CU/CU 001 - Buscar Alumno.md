@@ -6,7 +6,7 @@
 
 **Actores secundarios:** Alumno
 
-**Precondiciones:** 
+**Precondiciones:**
 
  1. Se deberá proporcionar o su dni, o alguno de sus apellidos, o su número de grupo.
 
@@ -21,5 +21,5 @@
 
 **Flujos alternativos:**
 
- - 2.a Si no encuentra al alumno, el sistema muestra un mensaje de error
+ - 2.a Si no encuentra al alumno, el sistema muestra un mensaje de error.
  - 2.b Si hay más de un resultado, el sistema mostrará las coincidencias y permitirá realizar una nueva busqueda por otro criterio.

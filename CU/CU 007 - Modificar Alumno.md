@@ -12,7 +12,7 @@
 
 **Flujo principal**:
 
-1. El caso de uso empieza cuando el profesor quiere modificar los datos de un alumno.
+1. El caso de uso empieza cuando el profesor quiere modificar los datos de un alumno introduciendo dni o apellidos.
 2. El sistema recoge los datos del alumno que se quiere modificar.
 
 **Postcondiciones**:
@@ -21,4 +21,4 @@
 
 **Flujos alternativos**:
 
-2.a. Si no existe el alumno, el sistema debe mostrar un mensaje de error.
+- 1.a. Si el sitema no encuentra coincidencia debe mostrar un mensaje de error.

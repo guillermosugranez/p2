@@ -9,6 +9,7 @@
 **Precondiciones**:
 
 1. En el sistema debe haber como mínimo un alumno inscrito.
+2. El lenguaje utilizado para imprimir por pantalla será Markdown.
 
 **Flujo principal**:
 
