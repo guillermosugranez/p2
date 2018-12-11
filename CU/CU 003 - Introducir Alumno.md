@@ -9,7 +9,7 @@
 **Precondiciones:**
 
  1. El alumno no debe existir en el sistema.
- 2. No puede coincidir el DNI con el de otro alumno.
+ 2. No puede coincidir el DNI ni el correo con el de otro alumno.
  3. No se pueden registrar más de 150 alumnos.
 
 **Flujo principal:**
