@@ -7,4 +7,4 @@ El profesor debe poder guardar la información en el archivo por defecto
 
  - Quiero poder guardar la lista de alumnos actual
  - No hace falta ser coordinador para esta tarea
- - Los datos se almacenarán en un fichero de texto cuya ruta será la determinada por defecto
+ - Los datos se almacenarán en el fichero de texto por defecto
